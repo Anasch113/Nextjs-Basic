@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@next/font": "^13.5.3",
+    "gh-pages": "^6.0.0",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "eslint": "latest",
